@@ -9,3 +9,5 @@ Fitur 🚀
 
 Khusus untuk CBT BimaSoft 🛠️
 - Aplikasi ini hanya dapat digunakan untuk CBT BimaSoft, dan dikembangkan untuk kompatibilitas penuh dengan sistem yang digunakan oleh BimaSoft. Pastikan bahwa sistem yang Anda gunakan adalah CBT BimaSoft agar aplikasi ini dapat berjalan dengan baik.
+
+(HANYA UNTUK LINGKUP INTERNAL)
